@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-Our Project 1 html file : [HW part1](https://bu-ie-423.github.io/fall-23-hcebeci/IE%20423%20Project%20Part%201_FinalVersion.html)
+Our Project 1 html file : [HW part1](https://bu-ie-423.github.io/fall-23-hcebeci/IE-423-Project-Part-1_FinalVersion.html)
 
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
