@@ -4,7 +4,7 @@ Our Project 1 html file : [HW part1](https://bu-ie-423.github.io/fall-23-hcebeci
 
 Our Project 2 html file : [HW part2](https://bu-ie-423.github.io/fall-23-hcebeci/IE-423-Project2-final.html)
 
-Project 3 html file : [HW part3](https://bu-ie-423.github.io/fall-23-hcebeci/Projec-3-final.html)
+Project 3 html file : [HW part3](https://bu-ie-423.github.io/fall-23-hcebeci/Project-3-Final.html)
 
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
